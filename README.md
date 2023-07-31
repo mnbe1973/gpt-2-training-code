@@ -19,8 +19,7 @@ python gpt-2_v12b_create_csv.py
 
 python gpt-2_v12b.py
 
-%------------------------------------
-
+%---
 With current settings in gpt-2_v12b.py and a RTX6000, expected training time 13 hours.
 Make sure to have 4GB Disk space available for the checkpoints that is stored every 500 itterations.
-%------------------------------------
+----
